@@ -1,1 +1,1 @@
-
+## Utilizado para variáveis contínuas
