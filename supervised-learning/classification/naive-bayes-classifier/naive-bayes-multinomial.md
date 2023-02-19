@@ -1,1 +1,2 @@
 
+## Adequado para variáveis discretas
